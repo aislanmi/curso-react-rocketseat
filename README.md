@@ -1,7 +1,12 @@
 # curso-react-rocketseat
+> Projeto desenvolvido no curso Starter da Rocketseat com o objetivo de aprender o básico de ReactJS. 
 
-Curso com o objetivo de aprender o básico de ReactJS. Tecnologias usadas:
+<h2>Ferramentas utilizadas:<h2>
 
--react
--react-router-dom
--axios
+<ul>
+     <li>ReactJS<li>
+     <li>react-router-dom<li>
+     <li>axios<li>
+<ul>
+
+
